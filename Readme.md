@@ -1,0 +1,1 @@
+a project from jetbrains acadmey used to encrypt and dycrypt strings and files
